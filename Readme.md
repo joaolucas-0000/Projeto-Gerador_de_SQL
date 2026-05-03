@@ -1,5 +1,3 @@
-### Conteúdo do README:
-
 * **Título:** SQL Schema Generator AI
 * **Descrição:** Ferramenta com interface gráfica que transforma descrições em linguagem natural em scripts SQL prontos para uso.
 * **Funcionalidades:** Suporte a múltiplos bancos (MySQL, PostgreSQL, etc.), interface intuitiva e integração com Google Gemini.
